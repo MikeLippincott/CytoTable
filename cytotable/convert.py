@@ -1191,4 +1191,4 @@ def convert(  # pylint: disable=too-many-arguments,too-many-locals
             **kwargs,
         ).result()
 
-    return output
+    pass
